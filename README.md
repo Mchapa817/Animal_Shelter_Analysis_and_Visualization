@@ -17,7 +17,7 @@ Analyizing:
 
 Next, the question became which of the existing rows would need reformatting. Since this data set lacked any business related context, I decided to just look for trends in population. The set as a whole contains animals from dogs to cats to a mix of wildlife. For the analysis I decided to focus on filtering based off of breed and intake sexes. Since, shelter dogs are often mutts, the combination of 3 or so different breeds be listed in the breed column was not uncommon. For our graphing purpose later, the filtering required new columns to be created. This was done by using the Text to Column data tool to splite the original breed column into primary, secondary and tertiary breeds. 
 
-Image
+![Breed and Color Split Intake](https://github.com/Mchapa817/shelter_workbook/assets/124482275/dd4f4788-3611-4fec-a5d8-abae1f732228)
 
 Visualizing:
 
@@ -26,6 +26,8 @@ text.
 
 # Deliverables:
 Final Dashboard: 
+
+![Dash](https://github.com/Mchapa817/shelter_workbook/assets/124482275/8becbbbc-24ca-4d8f-9fa8-5285e302911a)
 
 # Issues / Credits:
 Dataset was gathered from Kaggle. All sheets were created using Excel.
