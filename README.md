@@ -19,7 +19,7 @@ Finally, I had decided to examine the breakdown of sexes for the intake animals.
 
 ![Breed and Color Split Intake](https://github.com/Mchapa817/shelter_workbook/assets/124482275/dd4f4788-3611-4fec-a5d8-abae1f732228)
 
-# Deliverables / Recommmedations:
+# Visualization and Final Recommendations
 
 The visualizing steps focused on creating charts based off of Pivot tables. One is a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a splicer created off of the pivot tables. 
 
