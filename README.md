@@ -1,6 +1,17 @@
 # Status
 Over the past months, I have grown significantly as a data analyst, enhancing both my technical expertise and analytical mindset. With this growth, I’ve decided to revisit and refine my shelter analysis. My goal is to apply the advanced skills I’ve developed, such as more effective data visualization techniques, improved data cleaning practices, and more robust statistical methods, to deepen the insights and impact of the analysis. By reworking this project, I aim to ensure that it reflects my current capabilities and delivers meaningful results that showcase the value of data-driven decision-making.
 
+# Table of Contents
+1. [Defining the problem](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#defining-the-problem)
+
+2. [Cleaning / Transformation](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#cleaning--transformation)
+   
+4. [Analyzing](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#analyzing)
+   
+6. [Visualization and Final Recommendations](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#visualization-and-final-recommendations)
+   
+8. [References](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization?tab=readme-ov-file#references)
+
 # Defining the problem
 My shelter project grew out of my personal experience with adopting my two dogs (Moose and Junimo) from local shelters, but it also became a perfect avenue for applying my skills as a data analyst. Having seen the challenges shelters face such as overcrowding and resource constraints. I wanted to take a deeper dive into these issues through data. I started analyzing shelter data to identify trends in adoption rates, patterns in animal intake, and opportunities to optimize operations. 
 
