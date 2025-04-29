@@ -1,4 +1,4 @@
-# Improvements
+# Status
 Over the past months, I have grown significantly as a data analyst, enhancing both my technical expertise and analytical mindset. With this growth, I’ve decided to revisit and refine my shelter analysis. My goal is to apply the advanced skills I’ve developed, such as more effective data visualization techniques, improved data cleaning practices, and more robust statistical methods, to deepen the insights and impact of the analysis. By reworking this project, I aim to ensure that it reflects my current capabilities and delivers meaningful results that showcase the value of data-driven decision-making.
 
 # Goal
