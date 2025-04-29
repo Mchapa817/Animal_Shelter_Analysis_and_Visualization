@@ -1,5 +1,5 @@
 # Improvements
-Since this project was started I have grown a lot as a Data Analyst and can no longer say I am satisifed with the analysis below. In an effort to learn and grow as an Analyst, I am looking to rework and improve some of the parts of this project. Some notable changes will be adding figures to quanitfy the high inflow of shelter animals on a quarterly bases, point out outliers such as intake numbers for bats and the start of bat breeding season, and do an analysis of common breed mixes.
+Over the past months, I have grown significantly as a data analyst, enhancing both my technical expertise and analytical mindset. With this growth, I’ve decided to revisit and refine my shelter analysis. My goal is to apply the advanced skills I’ve developed, such as more effective data visualization techniques, improved data cleaning practices, and more robust statistical methods, to deepen the insights and impact of the analysis. By reworking this project, I aim to ensure that it reflects my current capabilities and delivers meaningful results that showcase the value of data-driven decision-making.
 
 # Goal
 My goal with this project is clean, analyzes create a final Dashboard that summarizes notable intake trends from the Austin Animal Center as well as generate possible recommendations based on the patterns found.
