@@ -13,13 +13,13 @@ Over the past months, I have grown significantly as a data analyst, enhancing bo
 8. [References](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization?tab=readme-ov-file#references)
 
 # Defining the Problem
-My shelter project grew out of my personal experience with adopting my two dogs (Moose and Junimo) from local shelters, but it also became a perfect avenue for applying my skills as a data analyst. Having seen the challenges shelters face such as overcrowding and resource constraints. I wanted to take a deeper dive into these issues through data. I started analyzing shelter data to identify trends in adoption rates, patterns in animal intake, and opportunities to optimize operations. 
+My shelter project grew out of my personal experience with adopting my two dogs (Moose and Junimo) from local shelters, but it also became a perfect avenue for applying my skills as a data analyst. Having seen the challenges shelters face such as overcrowding and resource constraints. I wanted to take a deeper dive into these issues through data. I started analyzing shelter data to identify patterns in animal intake, seasonal trends, and opportunities to optimize operations. 
 
 My personal connection to the cause gave me an empathetic perspective when interpreting the data, which, combined with my technical skills, helped me build visualizations and develop actionable solutions. This project is not just about helping shelters; it’s also a reflection of my ability to use data to address real-world problems that matter deeply to me.
 
 # Data Cleaning
 
-The setup for this project started by creating copies of the original sheets. Purpose here is so that I could explore and make changes without fearing of altering the originals. The original dataset would remain untouched on sheets labeled ACC Intakes and ACC Outtakes. The manipulated data exists on sheets Working Intakess and Working Outtakes. 
+The setup for this project started by creating copies of the original sheets. The purpose behind that is so that I could explore and make changes without fearing of altering the originals. The original dataset would remain untouched on sheets labeled ACC Intakes and ACC Outtakes. The manipulated data exists on sheets Working Intakess and Working Outtakes. 
 From here, the pivot tables used in the final deliverable exist on the Pivot sheet and the final deliverable is on the sheet labeled Dashboard. 
 
 One of the first steps for cleaning was taking a look at the files as is. Commands in Power Query allowed me to see that the dataset came with a few duplicate values. These were first removed from the Working Intake and Working Outtake sheets. Next, the question became which of the existing rows would need reformatting. One of the things I had noticed was that since shelter dogs are often mutts, the combination of 3 or so different breeds be listed in the breed column was not uncommon. I had decided to use the Text to Column data tool to splite the original breed column into primary, secondary and tertiary breeds.
