@@ -4,7 +4,7 @@ Over the past months, I have grown significantly as a data analyst, enhancing bo
 # Table of Contents
 1. [Defining the Problem](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#defining-the-problem)
 
-2. [Data Cleaning](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#cleaning--transformation)
+2. [Data Cleaning](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#data-cleaning)
    
 4. [Analyzing](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#analyzing)
    
