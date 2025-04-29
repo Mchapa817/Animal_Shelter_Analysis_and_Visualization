@@ -1,8 +1,10 @@
 # Status
 Over the past months, I have grown significantly as a data analyst, enhancing both my technical expertise and analytical mindset. With this growth, I’ve decided to revisit and refine my shelter analysis. My goal is to apply the advanced skills I’ve developed, such as more effective data visualization techniques, improved data cleaning practices, and more robust statistical methods, to deepen the insights and impact of the analysis. By reworking this project, I aim to ensure that it reflects my current capabilities and delivers meaningful results that showcase the value of data-driven decision-making.
 
-# Goal
-My goal with this project is clean, analyzes create a final Dashboard that summarizes notable intake trends from the Austin Animal Center as well as generate possible recommendations based on the patterns found.
+# Defining the problem
+My shelter project grew out of my personal experience with adopting my two dogs (Moose and Junimo) from local shelters, but it also became a perfect avenue for applying my skills as a data analyst. Having seen the challenges shelters face—like overcrowding and resource constraints—I wanted to take a deeper dive into these issues through data. I started analyzing shelter data to identify trends in adoption rates, patterns in animal intake, and opportunities to optimize operations. 
+
+My personal connection to the cause gave me an empathetic perspective when interpreting the data, which, combined with my technical skills, helped me build visualizations and develop actionable solutions. This project is not just about helping shelters; it’s also a reflection of my ability to use data to address real-world problems that matter deeply to me.
 
 # Cleaning / Transformation: 
 
