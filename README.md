@@ -15,7 +15,7 @@ One of the first steps for cleaning was taking a look at the files as is. Comman
 
 ![Cleaned Intakes](https://github.com/Mchapa817/shelter_workbook/assets/124482275/fa94b87d-2610-4a89-9fb7-5d2ef6dd2c9b)
 
-# Analyizing: 
+# Analyzing: 
 The set as a whole contains animals from typical dogs and cats to a mix of wildlife. I decided to focus on trends in population over time to see what patterns could be found. One notable portion was a larger bat population than I would have originally guessed. This led me to research the native bat population in Austin and find that the increased numbers of bats coincided with the bats breeding seasons. 
 
 Another notable trend is that the number of animals picked up goes up on average in the colder mounths. Additional reserach on this finding allowed me to discover that as the winter months bring in colder temperatures, members of the communitity are more likely to report strays. 
