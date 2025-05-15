@@ -13,7 +13,7 @@ Over the past months, I have grown significantly as a data analyst, enhancing bo
 8. [References](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization?tab=readme-ov-file#references)
 
 # Defining the Problem
-My shelter project grew out of my personal experience with adopting my two dogs (Moose and Junimo) from local shelters, but it also became a perfect avenue for applying my skills as a data analyst. Having seen the challenges shelters face such as overcrowding and resource constraints. I wanted to take a deeper dive into these issues through data. I started analyzing shelter data to identify patterns in animal intake, seasonal trends, and opportunities to optimize operations. 
+My shelter project grew out of my personal experience with adopting my two dogs (Moose and Junimo) from local shelters, but it also became a perfect avenue for applying my skills as a data analyst. Having seen the challenges shelters face such as overcrowding and resource constraints, I wanted to take a deeper dive into these issues through data. I started analyzing shelter data to identify patterns in animal intake, seasonal trends, and opportunities to optimize operations. 
 
 My personal connection to the cause gave me an empathetic perspective when interpreting the data, which, combined with my technical skills, helped me build visualizations and develop actionable solutions. This project is not just about helping shelters; it’s also a reflection of my ability to use data to address real-world problems that matter deeply to me.
 
