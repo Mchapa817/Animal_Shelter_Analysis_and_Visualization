@@ -45,9 +45,7 @@ Finally, I had decided to examine the breakdown of sexes for the intake animals.
 
 The visualizing steps focused on creating charts based off of trends found during the Analaysis step. One is a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a filter to select the applicalbe year. 
 
-Final recommedations based on the trends would be to have staff increase training on how to handle "outlier" animals such as bats during their breeding season. 
-
-Additionally, I would recommend the city of Austin do a research study to find the cause of shelter populations increases in the summer. Is this trend indicative of loose pets? The intake sex data indicates that most of these animals come from former homes.
+Final recommedations based on the trends would be to have staff increase training on how to handle "outlier" animals such as bats during their breeding season. Additionally, I would recommend the city of Austin do a research study to find the cause of shelter populations increases in the summer. Is this trend indicative of loose pets? The intake sex data indicates that most of these animals come from former homes.
 
 ![Dashboard ](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Screenshot%202025-05-15%20143639.png)
 
