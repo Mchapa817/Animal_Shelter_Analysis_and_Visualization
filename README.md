@@ -30,11 +30,12 @@ Cleaned Data:
 ![Cleaned Intakes](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Cleaned%20Data.png)
 
 # Analyzing
-The set as a whole contains animals from typical dogs and cats to a mix of wildlife. I decided to focus on trends in population over time to see what patterns could be found. One notable portion was a larger bat population than I would have originally guessed. This led me to research the native bat population in Austin and find that the increased numbers of bats coincided with the bats breeding seasons. 
+The data set contains animal types from typical household dogs and cats to a mix of wildlife. I decided to focus on trends in population over time to see what patterns could be found. One notable portion was a larger bat population than I would have originally guessed. This led me to research the native bat population in Austin and find that the increased numbers of bats coincided with the bats breeding seasons.
 
-Another notable trend is that the number of animals picked up goes up on average in the colder mounths. Additional reserach on this finding allowed me to discover that as the winter months bring in colder temperatures, members of the communitity are more likely to report strays. 
+Another notable trend is that the number of animals picked up goes up on average in the colder months. Additional research on this finding allowed me to discover that as the winter months bring in colder temperatures, members of the community are more likely to report strays.
 
-Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that dogs/cats are often "fixed". The status of their sex can indicate if the animal has either been abandoned or lost. 
+Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that dogs/cats are often "fixed". The status of their sex can indicate if the animal has either been abandoned or lost.
+
 
 ![Breed and Color Split Intake](https://github.com/Mchapa817/shelter_workbook/assets/124482275/dd4f4788-3611-4fec-a5d8-abae1f732228)
 
