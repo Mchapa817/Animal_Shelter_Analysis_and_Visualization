@@ -19,7 +19,7 @@ My personal connection to the cause gave me an empathetic perspective when inter
 
 # Data Cleaning
 
-The setup for this project started by creating copies of the original sheets. The purpose behind that is so that I could explore and make changes without fearing of altering the originals. The original dataset would remain untouched on sheets labeled ACC Intakes and the manipulated set would be labeled Working Intake. From here, the pivot tables used in the final deliverable exist on the Pivot sheet. 
+The setup for this project started by creating copies of the original sheets. The purpose behind that is so that I could explore and make changes without fearing of altering the originals. The original dataset would remain untouched on sheets labeled ACC Intakes and the manipulated set would be labeled Working Intake.
 
 One of the first steps for cleaning was taking a look at the files as is. Commands in Power Query allowed me to see that the dataset came with a few duplicate values. These were first removed from the Working Intake sheet. Next, the question became which of the existing rows would need reformatting. One of the things I had noticed was that since shelter dogs are often mutts, the combination of three or so different breeds be listed in the breed column was not uncommon. I had decided to use the Text to Column data tool to split the original breed column into primary, secondary, and tertiary breeds. Finally, I saw that the age column was in a non-standard format. So, I created a function that converted all inputs into a new column that described the age in terms of months.
 
@@ -41,7 +41,7 @@ Finally, I had decided to examine the breakdown of sexes for the intake animals.
 
 # Visualization and Final Recommendations
 
-The visualizing steps focused on creating charts based off of Pivot tables. One is a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a splicer created off of the pivot tables. 
+The visualizing steps focused on creating charts based off of trends found during the Analaysis step. One is a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a splicer. 
 
 Final recommedations based on the trends would be to have staff increase training on how to handle "outlier" animals such as bats during their breeding season. Additionally, I would recommend the city of Austin expand on the increased sympothies of their community during the winter months by creating an ad campaign highlighting the increased number of pets lost/abandonded around that time of year. 
 ![Dash](https://github.com/Mchapa817/shelter_workbook/assets/124482275/8becbbbc-24ca-4d8f-9fa8-5285e302911a)
