@@ -35,21 +35,24 @@ Cleaned Data:
 ![Cleaned Intakes](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Cleaned%20Data.png)
 
 # Analyzing
-The data set contains animal types from typical household dogs and cats to a mix of wildlife. I decided to focus on trends in population over time to see what patterns could be found. One notable portion was a larger bat population than I would have originally guessed. This led me to research the native bat population in Austin and find that the increased numbers of bats coincided with the bats breeding seasons.
+The data set contains animal types from typical household dogs and cats to a mix of wildlife. I decided to focus on trends in population over time for dogs, in order to see what patterns could be found. One unexpected takeaway was a larger bat population than I would have originally guessed. This led me to research the native bat population in Austin and find that the increased numbers of bats coincided with the bats breeding seasons.
 
-Another notable trend is that the number of animals picked up goes up on average in the colder months. Additional research on this finding allowed me to discover that as the winter months bring in colder temperatures, members of the community are more likely to report strays.
+Another notable trend is that the number of animals picked up goes up on average in the warmer months. Additional research on this finding allowed me to discover that this is contradictory to typical shelter trends, where the members of the community are more likely to report strays. 
 
-Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that dogs/cats are often "fixed". The status of their sex can indicate if the animal has either been abandoned or lost.
+Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that dogs/cats are often "fixed". The status of their sex can indicate if the animal has either been be a useful measure if an intake animal is abandoned or lost.
 
 
 ![Breed and Color Split Intake](https://github.com/Mchapa817/shelter_workbook/assets/124482275/dd4f4788-3611-4fec-a5d8-abae1f732228)
 
 # Visualization and Final Recommendations
 
-The visualizing steps focused on creating charts based off of trends found during the Analaysis step. One is a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a splicer. 
+The visualizing steps focused on creating charts based off of trends found during the Analaysis step. One is a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a filter to select the applicalbe year. 
 
-Final recommedations based on the trends would be to have staff increase training on how to handle "outlier" animals such as bats during their breeding season. Additionally, I would recommend the city of Austin expand on the increased sympothies of their community during the winter months by creating an ad campaign highlighting the increased number of pets lost/abandonded around that time of year. 
-![Dash](https://github.com/Mchapa817/shelter_workbook/assets/124482275/8becbbbc-24ca-4d8f-9fa8-5285e302911a)
+Final recommedations based on the trends would be to have staff increase training on how to handle "outlier" animals such as bats during their breeding season. 
+
+Additionally, I would recommend the city of Austin do a research study to find the cause of shelter populations increases in the summer. Is this trend indicative of loose pets? The intake sex data indicates that most of these animals come from former homes.
+
+![Dashboard ](https://github.com/Mchapa817/shelter_workbook/assets/124482275/8becbbbc-24ca-4d8f-9fa8-5285e302911a)
 
 # References
 AaronSchlegel. (2018, February 16). Austin Animal Center Shelter Outcomes. Kaggle. https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and 
