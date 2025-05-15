@@ -1,11 +1,3 @@
-# Status Update
-Over the past months, I have grown significantly as a data analyst, enhancing both my technical expertise and analytical mindset. With this growth, I’ve decided to revisit and refine my shelter analysis.
-
-Originally, this project was done completely within Excel. As such, I learned a lot about how to clean Power Query commands. However, since this project was originally started, I found that creating visuals using Pivot Tables within Excel is not the best method for promoting the story telling aspect of Data Analysis. 
-
-My goal is to apply the advanced skills I’ve developed, such as more effective data visualization techniques within the Tableau toolset. By reworking this project, I aim to ensure that it reflects my current capabilities and showcase the value of data-driven decision-making.
-
-
 # Table of Contents
 1. [Defining the Problem](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization#defining-the-problem)
 
