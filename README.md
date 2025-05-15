@@ -41,9 +41,6 @@ Another notable trend is that the number of animals picked up goes up on average
 
 Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that dogs/cats are often "fixed". The status of their sex can indicate if the animal has either been be a useful measure if an intake animal is abandoned or lost.
 
-
-![Breed and Color Split Intake](https://github.com/Mchapa817/shelter_workbook/assets/124482275/dd4f4788-3611-4fec-a5d8-abae1f732228)
-
 # Visualization and Final Recommendations
 
 The visualizing steps focused on creating charts based off of trends found during the Analaysis step. One is a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a filter to select the applicalbe year. 
@@ -52,7 +49,7 @@ Final recommedations based on the trends would be to have staff increase trainin
 
 Additionally, I would recommend the city of Austin do a research study to find the cause of shelter populations increases in the summer. Is this trend indicative of loose pets? The intake sex data indicates that most of these animals come from former homes.
 
-![Dashboard ](https://github.com/Mchapa817/shelter_workbook/assets/124482275/8becbbbc-24ca-4d8f-9fa8-5285e302911a)
+![Dashboard ](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Screenshot%202025-05-15%20143639.png)
 
 # References
 AaronSchlegel. (2018, February 16). Austin Animal Center Shelter Outcomes. Kaggle. https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and 
