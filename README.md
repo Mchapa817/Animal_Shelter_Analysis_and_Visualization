@@ -19,8 +19,7 @@ My personal connection to the cause gave me an empathetic perspective when inter
 
 # Data Cleaning
 
-The setup for this project started by creating copies of the original sheets. The purpose behind that is so that I could explore and make changes without fearing of altering the originals. The original dataset would remain untouched on sheets labeled ACC Intakes and ACC Outtakes. The manipulated data exists on sheets Working Intakess and Working Outtakes. 
-From here, the pivot tables used in the final deliverable exist on the Pivot sheet and the final deliverable is on the sheet labeled Dashboard. 
+The setup for this project started by creating copies of the original sheets. The purpose behind that is so that I could explore and make changes without fearing of altering the originals. The original dataset would remain untouched on sheets labeled ACC Intakes and the manipulated set would be labeled Working Intakss. From here, the pivot tables used in the final deliverable exist on the Pivot sheet. 
 
 One of the first steps for cleaning was taking a look at the files as is. Commands in Power Query allowed me to see that the dataset came with a few duplicate values. These were first removed from the Working Intake and Working Outtake sheets. Next, the question became which of the existing rows would need reformatting. One of the things I had noticed was that since shelter dogs are often mutts, the combination of 3 or so different breeds be listed in the breed column was not uncommon. I had decided to use the Text to Column data tool to splite the original breed column into primary, secondary and tertiary breeds.
 
