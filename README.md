@@ -27,9 +27,9 @@ Cleaned Data:
 ![Cleaned Intakes](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Cleaned%20Data.png)
 
 # Analyzing
-The data set contains animal types from typical household dogs and cats to a mix of wildlife. I decided to focus on trends in population over time for dogs, in order to see what patterns could be found. One unexpected takeaway was a larger bat population than I would have originally guessed. This led me to research the native bat population in Austin and find that the increased numbers of bats coincided with the bats breeding seasons.
+The data set contains animal types from typical household dogs and cats to a mix of wildlife. I decided to focus on trends in population over time for dogs but did find some notable trends in the wildlift data available. One unexpected takeaway was a larger bat population than I would have originally guessed. This led me to research the native bat population in Austin and find that the increased numbers of bats coincided with the bats breeding seasons.
 
-Another notable trend is that the number of animals picked up goes up on average in the warmer months. Additional research on this finding allowed me to discover that this is contradictory to typical shelter trends, where the members of the community are more likely to report strays. 
+Another notable trend is that the number of animals picked up goes up on average in the warmer months. Additional research on this finding allowed me to discover that this is contradictory to typical shelter trends, where the members of the community are more likely to report strays in winter months. 
 
 Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that dogs/cats are often "fixed". The status of their sex can indicate if the animal has either been be a useful measure if an intake animal is abandoned or lost.
 
@@ -45,3 +45,5 @@ Final recommedations based on the trends would be to have staff increase trainin
 AaronSchlegel. (2018, February 16). Austin Animal Center Shelter Outcomes. Kaggle. https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and 
 
 Caudill, M. (2019, November 20). Cold weather brings influx of animals to shelters. Mansfield News Journal. https://www.mansfieldnewsjournal.com/story/news/2019/11/20/cold-weather-brings-influx-animals-shelters-humane/4230836002/ 
+
+Unknown. (2025, February 8). Why do most dogs end up in shelters?. The Environmental Literacy Council. https://enviroliteracy.org/why-do-most-dogs-end-up-in-shelters/ 
