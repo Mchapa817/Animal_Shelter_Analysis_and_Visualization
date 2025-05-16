@@ -31,7 +31,7 @@ The data set contains animal types from typical household dogs and cats to a mix
 
 Another notable trend is that the number of animals picked up goes up on average in the warmer months. Additional research on this finding allowed me to discover that this is contradictory to typical shelter trends, where the members of the community are more likely to report strays in winter months. 
 
-Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that dogs/cats are often "fixed". The status of their sex can indicate if the animal has either been be a useful measure if an intake animal is abandoned or lost.
+Finally, I had decided to examine the breakdown of sexes for the intake animals. The key here is that a large portion of dogs are often "fixed". The status of their sex can indicate if the animal has either been be a useful measure if an intake animal is abandoned or lost.
 
 # Visualization and Final Recommendations
 
