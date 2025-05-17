@@ -39,7 +39,7 @@ The visualizing steps focused on creating charts based off of trends found durin
 
 Final recommedations based on the trends would be to have staff increase training on how to handle "outlier" animals such as bats during their breeding season. Additionally, I would recommend the city of Austin do a research study to find the cause of shelter populations increases in the summer. Is this trend indicative of loose pets? Finally, the intake sex data indicates that most of these animals come from former homes. I would suggest the city promote reading material about pet ownership to try to reduce the number of families that adopt a pet and ultimately decide to release to the shelter. 
 
-![Dashboard ](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Screenshot%20(3).png)
+![Dashboard ](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Screenshot%20(4).png)
 
 # References
 AaronSchlegel. (2018, February 16). Austin Animal Center Shelter Outcomes. Kaggle. https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and 
