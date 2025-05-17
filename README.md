@@ -35,11 +35,11 @@ Finally, I had decided to examine the breakdown of sexes for the intake animals.
 
 # Visualization and Final Recommendations
 
-The visualizing steps focused on creating charts based off of trends found during the Analysis step. One is of a pie chart showing the break down of intake sex status. The other is a timeline graph showing the intake count of the 5 most popular breeds. Both graphs are able to be manipulated by a filter to select the applicalbe year. 
+The visualizing steps focused on creating charts based off of trends found during the Analysis step. To the left are general statistics such as the total of the intake dogs. One is the total of pets for the entire shelter. Another is the total for just the dogs. Another one is of a pie chart showing the break down of intake sex status. In the middle, is are timeline graphs showing the intake count of the 5 most popular dog breeds as well as the trends for bat intake. Both of these graphs are broken down by quarterly averages and highlight the high and low numbers. Finally, on the right is a selection filter that allows decision makers to select the applicable years. 
 
 Final recommedations based on the trends would be to have staff increase training on how to handle "outlier" animals such as bats during their breeding season. Additionally, I would recommend the city of Austin do a research study to find the cause of shelter populations increases in the summer. Is this trend indicative of loose pets? Finally, the intake sex data indicates that most of these animals come from former homes. I would suggest the city promote reading material about pet ownership to try to reduce the number of families that adopt a pet and ultimately decide to release to the shelter. 
 
-![Dashboard ](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Screenshot%202025-05-15%20143639.png)
+![Dashboard ](https://github.com/Mchapa817/Animal_Shelter_Analysis_and_Visualization/blob/main/Screenshot%20(3).png)
 
 # References
 AaronSchlegel. (2018, February 16). Austin Animal Center Shelter Outcomes. Kaggle. https://www.kaggle.com/datasets/aaronschlegel/austin-animal-center-shelter-outcomes-and 
